@@ -1,6 +1,11 @@
 # winfredwendy.github.io
 <h1>My Moshel App<h1>
+  <p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 <html>
+  <h1>My Moshel App<h1>
   <h3>About the App</h3>
   <p>This project is a Suppliers Management application</p>
   <p>Moshel app provides a platform for Moshel traders company </p>
