@@ -1,5 +1,5 @@
 # winfredwendy.github.io
-My Moshel App
+<h1>My Moshel App<h1>
 <html>
   <h3>About the App</h3>
   <p>This project is a Suppliers Management application</p>
