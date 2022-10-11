@@ -6,7 +6,6 @@
     <img src="(https://th.bing.com/th/id/OIP.jcdRSWz-6fxrtd1d73fAvQHaEh?pid=ImgDet&rs=1)](https://th.bing.com/th/id/OIP.jcdRSWz-6fxrtd1d73fAvQHaEh?pid=ImgDet&rs=1)">
 </p>
 <html>
-  <h1>My Moshel App<h1>
   <h3>About the App</h3>
   <p>This project is a Suppliers Management application</p>
   <p>Moshel app provides a platform for Moshel traders company </p>
